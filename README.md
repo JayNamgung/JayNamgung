@@ -21,23 +21,10 @@
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayNamgung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayNamgung&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=JayNamgung&theme=tokyonight" />
 </p>
-
-## Activity (private included)
-
-![metrics](./github-metrics.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayNamgung/JayNamgung/output/snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/JayNamgung/JayNamgung/output/snake.svg" />
 </picture>
-
-## Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
