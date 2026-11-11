@@ -29,6 +29,11 @@
   <img src="https://streak-stats.demolab.com?user=JayNamgung&theme=tokyonight" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayNamgung/JayNamgung/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/JayNamgung/JayNamgung/output/snake.svg" />
+</picture>
+
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
