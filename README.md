@@ -29,6 +29,10 @@
   <img src="https://streak-stats.demolab.com?user=JayNamgung&theme=tokyonight" />
 </p>
 
+## Activity (private included)
+
+![metrics](./github-metrics.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayNamgung/JayNamgung/output/snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/JayNamgung/JayNamgung/output/snake.svg" />
