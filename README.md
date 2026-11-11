@@ -10,7 +10,6 @@
 
 - 📈 8 years of building quant investing programs
 - 🤖 Building LLM services and data platforms in finance
-- 🏢 Founder of [@aristar-hq](https://github.com/aristar-hq)
 
 ## Tech Stack
 
