@@ -10,6 +10,9 @@
 
 - 📈 8 years of building quant investing programs
 - 🤖 Building LLM services and data platforms in finance
+- 🧭 Product Owner: planning, design, analytics, and operations end to end
+- ⚙️ LLM serving, DevOps, CI/CD from a bare server
+- 🔭 Exploring: LLM agents, market commentary automation
 
 ## Tech Stack
 
