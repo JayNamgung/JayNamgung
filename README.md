@@ -26,7 +26,7 @@
   <img src="https://streak-stats.demolab.com?user=JayNamgung&theme=tokyonight" />
 </p>
 
-## Activity
+## Languages
 
 ![metrics](./github-metrics.svg)
 
