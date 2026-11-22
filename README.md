@@ -23,7 +23,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JayNamgung&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JayNamgung&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true" />
 </p>
 
 ## Languages
